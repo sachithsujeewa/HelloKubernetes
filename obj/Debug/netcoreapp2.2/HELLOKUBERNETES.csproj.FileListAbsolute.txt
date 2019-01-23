@@ -1,0 +1,14 @@
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\bin\Debug\netcoreapp2.2\HELLOKUBERNETES.deps.json
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\bin\Debug\netcoreapp2.2\HELLOKUBERNETES.runtimeconfig.json
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\bin\Debug\netcoreapp2.2\HELLOKUBERNETES.runtimeconfig.dev.json
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\bin\Debug\netcoreapp2.2\HELLOKUBERNETES.dll
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\bin\Debug\netcoreapp2.2\HELLOKUBERNETES.pdb
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.csprojAssemblyReference.cache
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.csproj.CoreCompileInputs.cache
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.RazorAssemblyInfo.cache
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.RazorAssemblyInfo.cs
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.AssemblyInfoInputs.cache
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.AssemblyInfo.cs
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.RazorTargetAssemblyInfo.cache
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.dll
+E:\Kubernetes\DotnetCore\HELLOKUBERNETES\obj\Debug\netcoreapp2.2\HELLOKUBERNETES.pdb
